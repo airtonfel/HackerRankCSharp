@@ -1,0 +1,32 @@
+C:\Users\Airtonfel\Documents\Projetos de Software\CSharp\solve-me-first\bin\Debug\net5.0\solve-me-first.exe
+C:\Users\Airtonfel\Documents\Projetos de Software\CSharp\solve-me-first\bin\Debug\net5.0\solve-me-first.deps.json
+C:\Users\Airtonfel\Documents\Projetos de Software\CSharp\solve-me-first\bin\Debug\net5.0\solve-me-first.runtimeconfig.json
+C:\Users\Airtonfel\Documents\Projetos de Software\CSharp\solve-me-first\bin\Debug\net5.0\solve-me-first.runtimeconfig.dev.json
+C:\Users\Airtonfel\Documents\Projetos de Software\CSharp\solve-me-first\bin\Debug\net5.0\solve-me-first.dll
+C:\Users\Airtonfel\Documents\Projetos de Software\CSharp\solve-me-first\bin\Debug\net5.0\ref\solve-me-first.dll
+C:\Users\Airtonfel\Documents\Projetos de Software\CSharp\solve-me-first\bin\Debug\net5.0\solve-me-first.pdb
+C:\Users\Airtonfel\Documents\Projetos de Software\CSharp\solve-me-first\obj\Debug\net5.0\solve-me-first.csprojAssemblyReference.cache
+C:\Users\Airtonfel\Documents\Projetos de Software\CSharp\solve-me-first\obj\Debug\net5.0\solve-me-first.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Airtonfel\Documents\Projetos de Software\CSharp\solve-me-first\obj\Debug\net5.0\solve-me-first.AssemblyInfoInputs.cache
+C:\Users\Airtonfel\Documents\Projetos de Software\CSharp\solve-me-first\obj\Debug\net5.0\solve-me-first.AssemblyInfo.cs
+C:\Users\Airtonfel\Documents\Projetos de Software\CSharp\solve-me-first\obj\Debug\net5.0\solve-me-first.csproj.CoreCompileInputs.cache
+C:\Users\Airtonfel\Documents\Projetos de Software\CSharp\solve-me-first\obj\Debug\net5.0\solve-me-first.dll
+C:\Users\Airtonfel\Documents\Projetos de Software\CSharp\solve-me-first\obj\Debug\net5.0\ref\solve-me-first.dll
+C:\Users\Airtonfel\Documents\Projetos de Software\CSharp\solve-me-first\obj\Debug\net5.0\solve-me-first.pdb
+C:\Users\Airtonfel\Documents\Projetos de Software\CSharp\solve-me-first\obj\Debug\net5.0\solve-me-first.genruntimeconfig.cache
+C:\Users\Airtonfel\Documents\Projetos-de-Software\CSharp\solve-me-first\bin\Debug\net5.0\solve-me-first.exe
+C:\Users\Airtonfel\Documents\Projetos-de-Software\CSharp\solve-me-first\bin\Debug\net5.0\solve-me-first.deps.json
+C:\Users\Airtonfel\Documents\Projetos-de-Software\CSharp\solve-me-first\bin\Debug\net5.0\solve-me-first.runtimeconfig.json
+C:\Users\Airtonfel\Documents\Projetos-de-Software\CSharp\solve-me-first\bin\Debug\net5.0\solve-me-first.runtimeconfig.dev.json
+C:\Users\Airtonfel\Documents\Projetos-de-Software\CSharp\solve-me-first\bin\Debug\net5.0\solve-me-first.dll
+C:\Users\Airtonfel\Documents\Projetos-de-Software\CSharp\solve-me-first\bin\Debug\net5.0\ref\solve-me-first.dll
+C:\Users\Airtonfel\Documents\Projetos-de-Software\CSharp\solve-me-first\bin\Debug\net5.0\solve-me-first.pdb
+C:\Users\Airtonfel\Documents\Projetos-de-Software\CSharp\solve-me-first\obj\Debug\net5.0\solve-me-first.csprojAssemblyReference.cache
+C:\Users\Airtonfel\Documents\Projetos-de-Software\CSharp\solve-me-first\obj\Debug\net5.0\solve-me-first.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Airtonfel\Documents\Projetos-de-Software\CSharp\solve-me-first\obj\Debug\net5.0\solve-me-first.AssemblyInfoInputs.cache
+C:\Users\Airtonfel\Documents\Projetos-de-Software\CSharp\solve-me-first\obj\Debug\net5.0\solve-me-first.AssemblyInfo.cs
+C:\Users\Airtonfel\Documents\Projetos-de-Software\CSharp\solve-me-first\obj\Debug\net5.0\solve-me-first.csproj.CoreCompileInputs.cache
+C:\Users\Airtonfel\Documents\Projetos-de-Software\CSharp\solve-me-first\obj\Debug\net5.0\solve-me-first.dll
+C:\Users\Airtonfel\Documents\Projetos-de-Software\CSharp\solve-me-first\obj\Debug\net5.0\ref\solve-me-first.dll
+C:\Users\Airtonfel\Documents\Projetos-de-Software\CSharp\solve-me-first\obj\Debug\net5.0\solve-me-first.pdb
+C:\Users\Airtonfel\Documents\Projetos-de-Software\CSharp\solve-me-first\obj\Debug\net5.0\solve-me-first.genruntimeconfig.cache
